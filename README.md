@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thakurrajatsingh09
 - 👀 I’m interested in AWS, Azure, Linux, Docker, Vagrant, and Networking concepts.
 - 🌱 I’m currently learning AWS, Azure, Linux, Docker, Vagrant, and Networking concepts.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/rajat-singh-256681148/
 
 <!---
